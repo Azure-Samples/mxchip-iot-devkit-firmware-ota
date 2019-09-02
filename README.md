@@ -7,7 +7,7 @@ languages:
 products:
 - azure
 - azure-iot-hub
-name: "Azure MXChip IoT DevKit firmware OTA (Over-the-Air)"
+name: "Azure MXChip IoT DevKit Firmware OTA (Over-the-Air)"
 description: "Use IoT Hub to perform firmware OTA update for DevKit."
 urlFragment: "mxchip-iot-devkit-firmware-ota"
 ---
