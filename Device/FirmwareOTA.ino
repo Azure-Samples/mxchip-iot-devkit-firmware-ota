@@ -120,7 +120,7 @@ static void CheckNewFirmware(void)
     return;
   }
 
-  // New firemware
+  // New firmware
   Screen.print(1, "New firmware:");
   Screen.print(2, fwInfo->fwVersion);
   LogInfo("New firmware is available: %s.", fwInfo->fwVersion);
